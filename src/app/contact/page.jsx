@@ -6,7 +6,7 @@ import Button from '@/components/button/button'
 export default function Contact() {
   return (
     <div className={styles.container}>
-      <h1 className={styles.title}>lets keep in touch</h1>
+      <h1 className={styles.title}>lets keep in touch you and me</h1>
       <div className={styles.content}>
         <div className={styles.imgContainer}>
           <Image src="/OIP.jpeg" alt="" fill={true}
@@ -20,7 +20,7 @@ export default function Contact() {
            cols="30"
             rows="10"
             ></textarea>
-            <button className={styles.button}>contact</button>
+            <button className={styles.button}>contact me now</button>
         </form>
 
       </div>
