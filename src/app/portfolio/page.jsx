@@ -16,7 +16,7 @@ export default function Portfolio() {
         <span className={Styles.title}>Websites</span>
       </Link>
       <Link href="/portfolio/application" className={Styles.item}>
-        <span className={Styles.title}>Application</span>
+        <span className={Styles.title}>Applications</span>
       </Link>
     </div>
     </div >
